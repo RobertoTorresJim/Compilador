@@ -1,5 +1,6 @@
 
 public class TablaSimbolos {
+	
 	public Simbolo simbolos[] = new Simbolo[1000];
 	
 	public TablaSimbolos() {}
